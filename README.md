@@ -1,13 +1,4 @@
 # synapsis
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -16,14 +7,12 @@
     <img src="docs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Lapak UMKM</h3>
+  <h3 align="center">MVP challange</h3>
 
   <p align="center">
     Restfull API with Go Language
     <br />
     <a href="https://app.swaggerhub.com/apis-docs/UMARUUUN11_1/ALTA-LapakUMKM/1.0.0"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://lapakumkm.netlify.app/">View Demo Apps</a>
   </p>
 </div>
 
