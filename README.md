@@ -21,7 +21,19 @@
 
 
 ## About
+1. User can register and login
+2. User can update its profile (name, email, location, and phone number)
+3. User can deactivate its own account
+4. User can CRUD Products
+5. User can CRUD Carts
+6. and many more
 
+# ⚡Features
+- CRUD (Users, Products, Cart)
+- Hashing password
+- Authentication & Authorization
+- Database Migration
+- Automated deployment with GitHub Actions, DockerHub & AWS EC2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,6 +66,6 @@
 
 - Rischiyuda :
 
-  [![GitHub](https://img.shields.io/badge/-Findryankp-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda])
+  [![GitHub](https://img.shields.io/badge/-Rischi-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Rischiyuda)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
