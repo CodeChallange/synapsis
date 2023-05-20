@@ -12,7 +12,7 @@
   <p align="center">
     Restfull API with Go Language
     <br />
-    <a href="https://app.swaggerhub.com/apis-docs/UMARUUUN11_1/ALTA-LapakUMKM/1.0.0"><strong>Explore the docs »</strong></a>
+    <a href="https://app.swaggerhub.com/apis/Codechallange/synapsistest/1.0.0"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
