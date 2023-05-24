@@ -18,7 +18,7 @@
 
 
 ## ERD
-
+<img src="ERD.jpg">
 
 ## About
 1. User can register and login
